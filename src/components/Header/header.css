@@ -1,0 +1,13 @@
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+ ul li{
+    margin: 5px;
+    color: orange;
+    text-decoration: none;
+    font-family: sans-serif;
+ }

@@ -1,0 +1,43 @@
+.first-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.form-container{
+    padding: 15px;
+}
+form{
+    padding: 25px;
+}
+ form input{
+    height: 20px;
+    width: 250px;
+    margin: 8px;
+    border: solid 1px orange;
+    border-radius: 4px;
+ }
+ form label{
+    margin: 8px;
+    font-family: sans-serif;
+ }
+ button{
+    margin: 8px;
+    padding: 10px;
+    width: 80px;
+    height: 42px;
+    border-radius: 8px;
+    border-style: none;
+    background-color: purple;
+    color: white;
+ }
+ h3{
+    font-family: sans-serif;
+    margin: 8px;
+ }
+
+ form{
+    border: solid 1px lightblue;
+    border-radius: 8px;
+ }
